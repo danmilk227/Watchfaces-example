@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16" ?>
+<FaceProject DeviceType="365">
+    <Screen Title="DigitalNum with dot" Bitmap="preview.png">
+        <Widget Shape="32" Name="21 digit" X="-15" Y="150" Width="420" Height="30" Alpha="255" Digits="21" Alignment="1" Spacing="0" Blanking="1" Visible_Src="0" Value_Src="1821" BitmapList="0.png|1.png|2.png|3.png|4.png|5.png|6.png|7.png|8.png|9.png|0.png|dot.png" />
+        <Widget Shape="32" Name="41 digit" X="-215" Y="210" Width="820" Height="30" Alpha="255" Digits="41" Alignment="1" Spacing="0" Blanking="1" Visible_Src="0" Value_Src="1821" BitmapList="0.png|1.png|2.png|3.png|4.png|5.png|6.png|7.png|8.png|9.png|0.png|dot.png" />
+        <Widget Shape="32" Name="61 digit" X="-415" Y="270" Width="1220" Height="30" Alpha="255" Digits="61" Alignment="1" Spacing="0" Blanking="1" Visible_Src="0" Value_Src="1821" BitmapList="0.png|1.png|2.png|3.png|4.png|5.png|6.png|7.png|8.png|9.png|0.png|dot.png" />
+    </Screen>
+</FaceProject>
