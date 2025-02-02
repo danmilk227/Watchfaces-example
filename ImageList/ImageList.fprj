@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16" ?>
+<FaceProject DeviceType="365">
+    <Screen Title="ImageList" Bitmap="preview.png">
+        <Widget Shape="32" Name="21 digit" X="244" Y="254" Width="60" Height="30" Alpha="255" Digits="3" Alignment="1" Spacing="0" Blanking="1" Visible_Src="0" Value_Src="841" BitmapList="0.png|1.png|2.png|3.png|4.png|5.png|6.png|7.png|8.png|9.png|0.png" />
+        <Widget Shape="31" Name="ImageList" X="226" Y="177" Width="94" Height="94" Alpha="255" Visible_Src="0" Index_Src="841" DefaultIndex="0" BitmapList="(0):bat (1).png|(25):bat (2).png|(50):bat (3).png|(75):bat (4).png|(100):bat (5).png" />
+        <Widget Shape="31" Name="ImageList0" X="118" Y="206" Width="35" Height="37" Alpha="255" Visible_Src="0" Index_Src="2012" DefaultIndex="0" BitmapList="(0):week (0).png|(1):week (1).png|(2):week (2).png|(3):week (3).png|(4):week (4).png|(5):week (5).png|(6):week (6).png" />
+        <Widget Shape="32" Name="21 digit0" X="125" Y="254" Width="20" Height="30" Alpha="255" Digits="1" Alignment="1" Spacing="0" Blanking="0" Visible_Src="0" Value_Src="2012" BitmapList="0.png|1.png|2.png|3.png|4.png|5.png|6.png|7.png|8.png|9.png|0.png" />
+    </Screen>
+</FaceProject>
