@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-16" ?>
+<FaceProject DeviceType="365">
+    <Screen Title="Anim" Bitmap="preview.png">
+        <Widget Shape="31" Name="anim_[0@100]" X="28" Y="213" Width="340" Height="50" Alpha="255" Visible_Src="0" Index_Src="0" DefaultIndex="6" BitmapList="(1):a_1.png|(2):a_2.png|(3):a_3.png|(4):a_4.png|(5):a_5.png|(6):a_6.png" />
+    </Screen>
+</FaceProject>
