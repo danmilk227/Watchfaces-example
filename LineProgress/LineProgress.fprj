@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16" ?>
+<FaceProject DeviceType="365">
+    <Screen Title="LineProgress" Bitmap="preview.png">
+        <Widget Shape="32" Name="21 digit" X="308" Y="179" Width="60" Height="30" Alpha="255" Digits="3" Alignment="2" Spacing="0" Blanking="1" Visible_Src="0" Value_Src="1021" BitmapList="0.png|1.png|2.png|3.png|4.png|5.png|6.png|7.png|8.png|9.png|0.png" />
+        <Widget Shape="32" Name="21 digit0" X="28" Y="179" Width="100" Height="30" Alpha="255" Digits="5" Alignment="0" Spacing="0" Blanking="1" Visible_Src="0" Value_Src="821" BitmapList="0.png|1.png|2.png|3.png|4.png|5.png|6.png|7.png|8.png|9.png|0.png" />
+        <Widget Shape="42" Name="lineProgress_steps" X="28" Y="213" Width="340" Height="50" Alpha="255" Rotate_xc="0" Rotate_yc="25" Radius="20" Line_Width="50" Butt_cap_ending_style_En="1" StartAngle="340" EndAngle="25" Range_Min="0" Range_Max="100" Range_MinStep="0" Range_Step="0" Background_ImageName="" Foreground_ImageName="progress.png" Visible_Src="0" Range_Max_Src="0" Range_Val_Src="1021" />
+    </Screen>
+</FaceProject>
