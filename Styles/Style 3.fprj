@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-16" ?>
+<FaceProject DeviceType="365">
+    <Screen Title="Styles" Bitmap="preview.png">
+        <Widget Shape="30" Name="Image" X="0" Y="0" Width="390" Height="450" Alpha="255" Visible_Src="0" Bitmap="Style 3.png" />
+    </Screen>
+</FaceProject>
